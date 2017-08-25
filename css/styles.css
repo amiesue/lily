@@ -1,0 +1,70 @@
+
+
+* {
+  font-family: 'Raleway', serif;
+  font-family: 'Josefin Slab', sans-serif;
+  font-family: 'Londrina Solid', cursive;
+  font-family: 'Rock Salt', cursive;
+}
+
+
+.nav {
+  font-family: 'Rock Salt', cursive;
+}
+
+body {
+  background-color: #292b2c;
+}
+
+body p, #about {
+  font-family: 'Raleway', serif;
+}
+
+.headerStyles {
+  background-color: #292b2c;
+  color: white;
+
+}
+
+.navCarousel {
+  background-color: #292b2c;
+}
+
+#mainPageCarousel {
+  width: 18em;
+  padding-bottom: 1em;
+}
+
+#mainPageCarousel .carousel-item  img {
+  height: 100%;
+  width: 100%;
+
+}
+
+.aboutStyles {
+  background-color: #c3423f;
+  padding-top: 2em;
+}
+
+.footer {
+  background-color: #292b2c;
+  color: white;
+}
+
+.footer ul {
+  color: white;
+}
+
+.footer ul li a {
+  color: white;
+
+}
+
+.footer p {
+  font-family: 'Raleway', serif;
+  margin-bottom: 0;
+}
+
+.musicListStyles ul li {
+  font-family: 'Raleway', serif;
+}
